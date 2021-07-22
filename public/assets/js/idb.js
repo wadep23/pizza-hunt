@@ -1,3 +1,5 @@
+// OFFLINE STORAGE AND USING OFFLINE STORAGE
+
 // Create variable to hold db connection
 let db;
 // Establish a connection to the IndexedDB database we called pizza_hunt and set to version 1
